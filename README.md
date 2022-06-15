@@ -12,6 +12,12 @@ You can find most of my projects here on my GitHub profile, but here's some othe
 - [Kaggle](https://www.kaggle.com/blastokaggle/code)
 - [My Blogs](https://cpt307justinstewart.blogspot.com/)
 
+## Where To Find Me
+You can find my professional links and methods of contact here:
+- [LinkedIn](https://www.linkedin.com/in/justin-stewart-a0ba0b237/)
+- [Handshake](https://app.joinhandshake.com/stu/users/40181005)
+- [Indeed](https://my.indeed.com/resume?hl=en&co=US&from=gnav-messaging--messaging-webapp)
+-  Contact me directly at justin.stewart2222@hotmail.com or by private message on any of the mentioned platforms.
 <!---
 NotBlasto/NotBlasto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

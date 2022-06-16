@@ -9,7 +9,6 @@
 You can find most of my projects here on my GitHub profile, but here's some other places you can find me:
 - [My CV](https://drive.google.com/file/d/1rQeICC2ICLumxAMnzh7gM9Jc5QR7WtYf/view?usp=sharing)
 - [Tableau](https://public.tableau.com/app/profile/justin.stewart3367)
-- [Kaggle](https://www.kaggle.com/blastokaggle/code)
 - [My Blogs](https://cpt307justinstewart.blogspot.com/)
 
 ## Where To Find Me

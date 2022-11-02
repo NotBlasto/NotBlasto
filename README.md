@@ -5,7 +5,7 @@
  You can find my Exploratory Data Analysis on the impact of consecutively winning in League of Legends here on [Github](https://github.com/NotBlasto/League-Of-Legends-LP-EDA) and [Tableau](https://public.tableau.com/app/profile/justin.stewart3367/viz/LoLLPGainEDA/LeagueofLegendsLPGainEDA?publish=yes). I hope to get a comprehensive write up of the project written on Kaggle soon as well.
  
 
-## My Projects and CV
+## My Projects
 You can find most of my projects here on my GitHub profile, but here's some other places you can find me:
 - [Tableau](https://public.tableau.com/app/profile/justin.stewart3367)
 - [My Blogs](https://cpt307justinstewart.blogspot.com/)

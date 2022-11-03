@@ -6,7 +6,7 @@
  
 
 ## My Projects
-You can find most of my projects here on my GitHub profile, but here's some other places you can find me:
+You can find most of my projects here on my GitHub profile, but here's some other places you can find some of my related work:
 - [Tableau](https://public.tableau.com/app/profile/justin.stewart3367)
 - [My Blogs](https://cpt307justinstewart.blogspot.com/)
 
